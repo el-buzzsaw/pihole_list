@@ -1,0 +1,23 @@
+#CREATED 26 OCT 2020
+#LAST UPDATED 26 OCT 2020
+
+l.sharethis.com	
+livetileedge.dsx.mp.microsoft.com	
+cdn.pricespider.com
+i.ytimg.com	
+e11bfec6bac5c800e6c5c0c76572323f.safeframe.googlesyndication.com	
+prebid-server.newsbreak.com	
+www.datadoghq-browser-agent.com	
+tpc.googlesyndication.com	
+cc4d786680f41b3d3ca4f361e68717b1.safeframe.googlesyndication.com	
+16ece8d697ede6a784768bdb77399565.safeframe.googlesyndication.com	
+adservice.google.com	
+ad.doubleclick.net	
+vid.buzzfeed.com	
+fr-actions.trackonomics.net
+
+## LAST ONE HERE
+## PLEASE ENSURE YOU UPDATE <YOUR.LAST.NAME> WITH YOUR ACTUAL LAST NAME, AND REMOVE THE <>
+## e.g. if your last name is Smithwillick, your blocklist would have "(\.|^)smithwillick$" without the quotation marks
+
+(\.|^)<YOUR.LAST.NAME>$	
